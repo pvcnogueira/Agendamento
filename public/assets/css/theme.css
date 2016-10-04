@@ -1,0 +1,10 @@
+#loginModal{
+    width: auto;
+    margin: auto;
+    height: auto;
+}
+
+.modal-content .container{
+    width: 80% !important;
+    margin: auto !important;
+}
