@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('site/home');
 });
+
+Route::get('system/login', function () {
+    return view('system/theme');
+});

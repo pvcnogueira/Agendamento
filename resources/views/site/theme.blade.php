@@ -12,14 +12,14 @@
     <title>Agendamento</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/site/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme CSS -->
-    <link href="assets/css/template.min.css" rel="stylesheet">
-    <link href="assets/css/theme.css" rel="stylesheet">
+    <link href="assets/site/css/template.min.css" rel="stylesheet">
+    <link href="assets/site/css/theme.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/site/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
           type="text/css">
@@ -77,7 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <img class="img-responsive" src="assets/img/profile.png" alt="">
+                <img class="img-responsive" src="assets/site/img/profile.png" alt="">
                 <div class="intro-text">
                     <span class="name">Start Bootstrap</span>
                     <hr class="star-light">
@@ -105,7 +105,7 @@
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="assets/img/portfolio/cabin.png" class="img-responsive" alt="">
+                    <img src="assets/site/img/portfolio/cabin.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
@@ -115,7 +115,7 @@
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="assets/img/portfolio/cake.png" class="img-responsive" alt="">
+                    <img src="assets/site/img/portfolio/cake.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
@@ -125,7 +125,7 @@
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="assets/img/portfolio/circus.png" class="img-responsive" alt="">
+                    <img src="assets/site/img/portfolio/circus.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
@@ -135,7 +135,7 @@
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="assets/img/portfolio/game.png" class="img-responsive" alt="">
+                    <img src="assets/site/img/portfolio/game.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
@@ -145,7 +145,7 @@
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="assets/img/portfolio/safe.png" class="img-responsive" alt="">
+                    <img src="assets/site/img/portfolio/safe.png" class="img-responsive" alt="">
                 </a>
             </div>
             <div class="col-sm-4 portfolio-item">
@@ -155,7 +155,7 @@
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="assets/img/portfolio/submarine.png" class="img-responsive" alt="">
+                    <img src="assets/site/img/portfolio/submarine.png" class="img-responsive" alt="">
                 </a>
             </div>
         </div>
@@ -320,7 +320,7 @@
                     <div class="modal-body">
                         <h2>Project Title</h2>
                         <hr class="star-primary">
-                        <img src="assets/img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
+                        <img src="assets/site/img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
                         <p>Use this area of the page to describe your project. The icon above is part of a free icon set
                             by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can
                             download their free set with 16 icons, or you can purchase the entire set with 146 icons for
@@ -362,7 +362,7 @@
                     <div class="modal-body">
                         <h2>Project Title</h2>
                         <hr class="star-primary">
-                        <img src="assets/img/portfolio/cake.png" class="img-responsive img-centered" alt="">
+                        <img src="assets/site/img/portfolio/cake.png" class="img-responsive img-centered" alt="">
                         <p>Use this area of the page to describe your project. The icon above is part of a free icon set
                             by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can
                             download their free set with 16 icons, or you can purchase the entire set with 146 icons for
@@ -404,7 +404,7 @@
                     <div class="modal-body">
                         <h2>Project Title</h2>
                         <hr class="star-primary">
-                        <img src="assets/img/portfolio/circus.png" class="img-responsive img-centered" alt="">
+                        <img src="assets/site/img/portfolio/circus.png" class="img-responsive img-centered" alt="">
                         <p>Use this area of the page to describe your project. The icon above is part of a free icon set
                             by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can
                             download their free set with 16 icons, or you can purchase the entire set with 146 icons for
@@ -446,7 +446,7 @@
                     <div class="modal-body">
                         <h2>Project Title</h2>
                         <hr class="star-primary">
-                        <img src="assets/img/portfolio/game.png" class="img-responsive img-centered" alt="">
+                        <img src="assets/site/img/portfolio/game.png" class="img-responsive img-centered" alt="">
                         <p>Use this area of the page to describe your project. The icon above is part of a free icon set
                             by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can
                             download their free set with 16 icons, or you can purchase the entire set with 146 icons for
@@ -488,7 +488,7 @@
                     <div class="modal-body">
                         <h2>Project Title</h2>
                         <hr class="star-primary">
-                        <img src="assets/img/portfolio/safe.png" class="img-responsive img-centered" alt="">
+                        <img src="assets/site/img/portfolio/safe.png" class="img-responsive img-centered" alt="">
                         <p>Use this area of the page to describe your project. The icon above is part of a free icon set
                             by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can
                             download their free set with 16 icons, or you can purchase the entire set with 146 icons for
@@ -530,7 +530,7 @@
                     <div class="modal-body">
                         <h2>Project Title</h2>
                         <hr class="star-primary">
-                        <img src="assets/img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
+                        <img src="assets/site/img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
                         <p>Use this area of the page to describe your project. The icon above is part of a free icon set
                             by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can
                             download their free set with 16 icons, or you can purchase the entire set with 146 icons for
@@ -572,7 +572,7 @@
                     <div class="modal-body">
                         <h2>Acesse</h2>
                         <hr>
-                        <form action="" method="post">
+                        <form action="system/login" method="get">
                             <div class="form-group">
                                 <div class="row">
                                     <div class="col-md-12">
@@ -597,14 +597,14 @@
 </div>
 
 <!-- jQuery -->
-<script src="assets/vendor/jquery/jquery.min.js"></script>
+<script src="assets/site/vendor/jquery/jquery.min.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/site/vendor/bootstrap/js/bootstrap.min.js"></script>
 
 
 <!-- Theme JavaScript -->
-<script src="assets/js/template.min.js"></script>
+<script src="assets/site/js/template.min.js"></script>
 
 </body>
 
